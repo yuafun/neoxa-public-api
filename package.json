@@ -1,10 +1,14 @@
 {
   "name": "neoxa-public-api",
   "version": "1.0.0",
-  "description": "",
-  "author": "",
+  "description": "Neoxa public api connector",
+  "homepage": "https://github.com/yuafun/neoxa-public-api#readme",
+  "bugs": {
+    "url": "https://github.com/yuafun/neoxa-public-api/issues"
+  },
+  "author": "yuafun",
   "type": "commonjs",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/node": "^20.11.20",
     "axios": "^1.6.7"
