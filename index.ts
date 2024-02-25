@@ -1,1 +1,1 @@
-import "./lib/neoxa"
+export = require("./lib/neoxa")
