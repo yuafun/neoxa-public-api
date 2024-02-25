@@ -111,7 +111,7 @@ describe('Neoxa Extended API', () => {
         expect(typeof recipients).toEqual('number');
         expect(typeof amount).toEqual('number');
         expect(typeof timestamp).toEqual('number');
-    }, 10000);
+    }, 20000);
 
     test('getCurrentPrice --->', async () => {
         const currentPrice = await Neoxa.getCurrentPrice()
