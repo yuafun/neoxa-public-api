@@ -2,7 +2,6 @@ import axios from "axios"
 
 const baseUrl = "https://explorer.neoxa.net"; // Neoxa API base url
 
-
 export const getDifficulty = async () => {
     const url = "/api/getdifficulty"
     const { data } = await axios({
