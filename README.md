@@ -1,1 +1,1 @@
-# neoxa-public-api
+# Neoxa
