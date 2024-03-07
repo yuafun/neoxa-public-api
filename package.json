@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yuafun/neoxa-public-api"
+    "url": "https://github.com/yuafun/neoxa-public-api.git"
   },
   "author": "yuafun",
   "type": "commonjs",
